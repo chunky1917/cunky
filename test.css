@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    background-color: rgb(25, 195, 158);
+    text-align: center;
+    padding-top: 100px;
+}
+.login{
+    background-color: rgb(87, 235, 225);
+    padding: 30px;
+    width: 250px;
+    margin: auto;
+    border-radius: 10pxs;
+}
+input{padding: 10px;
+    margin: 10px;
+    width: 90%;
+}
+button{padding: 10px 30px;
+        background-color: aliceblue;
+    color: aqua;
+    border: none;
+    cursor: pointer;
+    }
